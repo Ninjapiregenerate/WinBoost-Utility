@@ -1,0 +1,58 @@
+# Build folders
+
+bin/
+obj/
+
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+
+.idea/
+
+# Logs
+
+*.log
+
+# Packages
+
+packages/
+
+# Test Results
+
+TestResults/
+
+# NuGet
+
+*.nupkg
+
+# Publish
+
+publish/
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Cache
+
+.cache/
+
+# Generated files
+
+Generated/
+
+# OS files
+
+.DS_Store
