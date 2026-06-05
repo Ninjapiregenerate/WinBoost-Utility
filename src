@@ -1,0 +1,22 @@
+using System;
+
+namespace WinBoostUtility
+{
+    public class SystemInfo
+    {
+        public static string GetOperatingSystem()
+        {
+            return Environment.OSVersion.ToString();
+        }
+
+        public static string GetMachineName()
+        {
+            return Environment.MachineName;
+        }
+
+        public static string GetUserName()
+        {
+            return Environment.UserName;
+        }
+    }
+}
