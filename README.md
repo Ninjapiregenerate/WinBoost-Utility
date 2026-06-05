@@ -71,10 +71,6 @@ The project focuses on simplicity, transparency, and ease of use.
 
 ![Dashboard](assets/screenshot-1.png)
 
-### Resource Monitor
-
-![Monitor](assets/screenshot-2.png)
-
 ---
 
 ## Installation
